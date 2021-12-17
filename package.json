@@ -1,0 +1,22 @@
+{
+  "name": "abhishek-dynamic-form",
+  "version": "1.0.0",
+  "description": "Library to create dynamic form using Json Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekSuccessive20/Dynamic-Form.git"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "successive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekSuccessive20/Dynamic-Form/issues"
+  },
+  "homepage": "https://github.com/AbhishekSuccessive20/Dynamic-Form#readme"
+}
